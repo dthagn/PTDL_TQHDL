@@ -1,0 +1,8 @@
+Variable_X,Variable_Y,Correlation,N,Method,Scope
+GDP_Growth,Unemployment_Rate,-0.11664948697291745,75,Pearson,Overall (all countries)
+Inflation,Unemployment_Rate,-0.25947761072256414,75,Pearson,Overall (all countries)
+GDP_Growth,Unemployment_Rate,0.3871859374314423,15,Pearson,Country: Japan
+GDP_Growth,Unemployment_Rate,0.1719804763716079,15,Pearson,Country: Philippines
+GDP_Growth,Unemployment_Rate,-0.030603517683660365,15,Pearson,Country: South Korea
+GDP_Growth,Unemployment_Rate,-0.4475596038870853,15,Pearson,Country: Thailand
+GDP_Growth,Unemployment_Rate,-0.46519177575650267,15,Pearson,Country: Vietnam
